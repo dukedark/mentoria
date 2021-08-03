@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    margin-top: 5%;
+    margin-left: 10%;
+    padding: 1px;
+    color: blue;
+}
+
+#Titulo1{
+    color: brown;
+}
+
+.tituloSub{
+    border: 10px;
+    border-radius: 10px;
+    border-color:blueviolet;
+    background-color: bisque;
+}
